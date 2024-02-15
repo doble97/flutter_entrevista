@@ -1,0 +1,19 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "Laravel Entrevista Api",
+        "version": "0.1"
+    },
+    "paths": {
+        "/api/client": {
+            "get": {
+                "operationId": "c9f63c3852ba8166f56256f6275c0756",
+                "responses": {
+                    "200": {
+                        "description": "Get all clients"
+                    }
+                }
+            }
+        }
+    }
+}
